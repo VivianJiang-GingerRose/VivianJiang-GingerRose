@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Vivian Jiang
+Hi there 👋 I’m Vivian Jiang
+
 - 👀 I’m interested in machine learning and data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
