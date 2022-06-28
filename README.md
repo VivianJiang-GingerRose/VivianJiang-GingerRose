@@ -14,7 +14,7 @@ I am a practising data scientist who loves solving real-world problems, a bit li
 
 - 🛠 I am working as a data science lead
 - 🧠 My current research focus is on finding methods to store and integrate human domain knowledge with machine learning models for industrial applications
-- 💕 I want to use this space to share some interesting problems I have solved in the past, and I hope it will be helpful 
+- 💕 I want to use this space to share some interesting problems I have solved in the past, and I hope it will be helpful for you
 
 ---
 
