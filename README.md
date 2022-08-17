@@ -10,7 +10,7 @@
 
 ### About Me :
 
-I am a practising data scientist who loves solving real-world problems, a bit like a detective 🧐
+I am a practising data scientist with 13+ years of industry experience who loves solving real-world problems, a bit like a detective 🧐
 
 - 🛠 I am working as a data science lead and consultant
 - 🧠 My current research focus is on finding methods to store and integrate human domain knowledge with machine learning models for industrial applications
